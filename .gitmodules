@@ -1,0 +1,9 @@
+[submodule "OS-Devoir1"]
+	path = OS-Devoir1
+	url = https://github.com/valentinmagot/OS-Devoir1.git
+[submodule "OS-Devoir2"]
+	path = OS-Devoir2
+	url = https://github.com/valentinmagot/OS-Devoir2.git
+[submodule "OS-Devoir3"]
+	path = OS-Devoir3
+	url = https://github.com/valentinmagot/OS-Devoir3.git
